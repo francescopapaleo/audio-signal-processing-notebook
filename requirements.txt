@@ -2,7 +2,7 @@ jupyter-book
 matplotlib
 numpy
 scipy
-essentia
 pandas
 soundfile
+sox
 seaborn

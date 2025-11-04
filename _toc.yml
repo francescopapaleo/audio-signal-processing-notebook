@@ -51,7 +51,7 @@ parts:
     chapters:
       - file: CONTRIBUTING  # Contribution guidelines
       - file: CONDUCT  # Code of conduct
-      - file: LICENSE  # License information
+
 
   - caption: References
     chapters:
