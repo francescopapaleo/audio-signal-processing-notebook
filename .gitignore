@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 jupyter_execute/
 _build/
+# MyST build outputs
+_build
